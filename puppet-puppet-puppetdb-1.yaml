@@ -1,0 +1,6 @@
+---
+environment: production
+stype: puppetdb
+role: master
+project: internal
+tier: prod
