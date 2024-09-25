@@ -1,6 +1,6 @@
 ---
 environment: production
-stype: puppet::server
+stype: puppetserver
 role: master
 project: internal
 tier: prod
